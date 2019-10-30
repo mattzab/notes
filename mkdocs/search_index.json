@@ -16,6 +16,71 @@
             "title": "Never Split The Difference"
         },
         {
+            "location": "/Structure-Based-Trading/",
+            "text": "Support & Resistance - Basics\n\n\n\n\nClear all indicators from screen\n\n\nFind major levels of support and resistance\n\n\nIgnore minor levels\n\n\nWorks on all timeframes\n\n\nLook for levels where price has bounced off of the level multiple times (either as support or resistance)\n\n\n\n\nMarking Levels\n\n\n\n\nMove into a higher timeframe to find S/R levels\n\n\nMark 2 levels above, and 2 levels below, price\n\n\nMake trading decisions in lower timeframe than the one you marked\n\n\nUse either horizontal lines or boxes to mark major levels of market structure\n\n\nTreat candle bodies with higher priority than wicks\n\n\n\n\nTrends\n\n\n\n\nUP trend when the market is making higher highs and higher lows\n\n\nThe trend doesn't end until the most recent level of support is broken\n\n\n\n\nTaking a trade\n\n\n\n\nOnly trade in a trend (usually)\n\n\nWhen price breaks above a level, wait for a pullback to that level, then buy\n\n\nPossible sell point is next resistance level up\n\n\nIf price breaks through next resistance level, expect a pullback and rebound off the new support level (same level as resistance)\n\n\n\n\nRange trading\n\n\n\n\nAfter price consolidations, price typically continues the previous trend\n\n\nOnly take trades near the edge of the range bondary\n\n\nNever buy in a range expecting counter-trend movement\n\n\n\n\n21 - EMA\n\n\n\n\nThe 21 day EMA can be used as a \"magnet\" for price\n\n\nBetter trades \nusually\n happen around the 21 EMA (not always)\n\n\n\n\nCounter Trend Trades\n\n\n\n\nTake profits early, don't expect trend reversal\n\n\n\n\nRules for Entry Reason 1\n\n\n\n\nMarket must be above 50 EMA\n\n\nMarket must make a new Higher High\n\n\nWait for at least a 2 candle pullback\n\n\nFind Advanced Engulfing Entry Reason Above 50 EMA\n\n\nEntry Candle cannot close above the body of the swing high candle\n\n\n\n\nRules for Entry Reason 2\n\n\n\n\nMarket must be above 50 EMA\n\n\nMarket must make a new Higher High\n\n\nAt least 2 pullback Candles, all the way to 50-EMA (Even if only wicks touch)\n\n\nOnly 1 candle maximum that closes below the 50 EMA (None is ok)\n\n\nFind Advanced Engulfing Entry Reason that closes above 50-EMA\n\n\nEntry Candle cannot close above previous swing high\n\n\n\n\nStop Loss Rules\n\n\n\n\nATR > 20 & < 30 = 20 pips\n\n\nATR > 30 & < 50 = 30 pips\n\n\nATR > 50 & < 100 = 50 pips\n\n\nATR > 100 = 100 pips\n\n\nAdd pips to previous swing low\n\n\n\n\nTake Profit Target\n\n\n\n\n1:1 RRR\n\n\nWhatever your stop loss is down below, set that target above\n\n\n\n\nBreakouts\n\n\n\n\nLook for flag pattern\n\n\n3 tests of the bottom of the flag\n\n\nOnly take trade if flag is on resistance/major structure in higher time frame\n\n\nGreen close above previous red wick is entry",
+            "title": "Structure Based Trading"
+        },
+        {
+            "location": "/Structure-Based-Trading/#support-resistance-basics",
+            "text": "Clear all indicators from screen  Find major levels of support and resistance  Ignore minor levels  Works on all timeframes  Look for levels where price has bounced off of the level multiple times (either as support or resistance)",
+            "title": "Support &amp; Resistance - Basics"
+        },
+        {
+            "location": "/Structure-Based-Trading/#marking-levels",
+            "text": "Move into a higher timeframe to find S/R levels  Mark 2 levels above, and 2 levels below, price  Make trading decisions in lower timeframe than the one you marked  Use either horizontal lines or boxes to mark major levels of market structure  Treat candle bodies with higher priority than wicks",
+            "title": "Marking Levels"
+        },
+        {
+            "location": "/Structure-Based-Trading/#trends",
+            "text": "UP trend when the market is making higher highs and higher lows  The trend doesn't end until the most recent level of support is broken",
+            "title": "Trends"
+        },
+        {
+            "location": "/Structure-Based-Trading/#taking-a-trade",
+            "text": "Only trade in a trend (usually)  When price breaks above a level, wait for a pullback to that level, then buy  Possible sell point is next resistance level up  If price breaks through next resistance level, expect a pullback and rebound off the new support level (same level as resistance)",
+            "title": "Taking a trade"
+        },
+        {
+            "location": "/Structure-Based-Trading/#range-trading",
+            "text": "After price consolidations, price typically continues the previous trend  Only take trades near the edge of the range bondary  Never buy in a range expecting counter-trend movement",
+            "title": "Range trading"
+        },
+        {
+            "location": "/Structure-Based-Trading/#21-ema",
+            "text": "The 21 day EMA can be used as a \"magnet\" for price  Better trades  usually  happen around the 21 EMA (not always)",
+            "title": "21 - EMA"
+        },
+        {
+            "location": "/Structure-Based-Trading/#counter-trend-trades",
+            "text": "Take profits early, don't expect trend reversal",
+            "title": "Counter Trend Trades"
+        },
+        {
+            "location": "/Structure-Based-Trading/#rules-for-entry-reason-1",
+            "text": "Market must be above 50 EMA  Market must make a new Higher High  Wait for at least a 2 candle pullback  Find Advanced Engulfing Entry Reason Above 50 EMA  Entry Candle cannot close above the body of the swing high candle",
+            "title": "Rules for Entry Reason 1"
+        },
+        {
+            "location": "/Structure-Based-Trading/#rules-for-entry-reason-2",
+            "text": "Market must be above 50 EMA  Market must make a new Higher High  At least 2 pullback Candles, all the way to 50-EMA (Even if only wicks touch)  Only 1 candle maximum that closes below the 50 EMA (None is ok)  Find Advanced Engulfing Entry Reason that closes above 50-EMA  Entry Candle cannot close above previous swing high",
+            "title": "Rules for Entry Reason 2"
+        },
+        {
+            "location": "/Structure-Based-Trading/#stop-loss-rules",
+            "text": "ATR > 20 & < 30 = 20 pips  ATR > 30 & < 50 = 30 pips  ATR > 50 & < 100 = 50 pips  ATR > 100 = 100 pips  Add pips to previous swing low",
+            "title": "Stop Loss Rules"
+        },
+        {
+            "location": "/Structure-Based-Trading/#take-profit-target",
+            "text": "1:1 RRR  Whatever your stop loss is down below, set that target above",
+            "title": "Take Profit Target"
+        },
+        {
+            "location": "/Structure-Based-Trading/#breakouts",
+            "text": "Look for flag pattern  3 tests of the bottom of the flag  Only take trade if flag is on resistance/major structure in higher time frame  Green close above previous red wick is entry",
+            "title": "Breakouts"
+        },
+        {
             "location": "/The-Oxygen-Advantage/",
             "text": "Breath Light to Breath Right\n\n\n\n\nNose breath only\n\n\nNose hairs shouldn't move while breathing\n\n\nBreathing should be in stomach, not chest\n\n\nSlight natural pause after exhale\n\n\n\n\nOverbreathing leads to\n\n\n\n\nImpaired release of oxygen from red blood cells (Bohr Effect)\n\n\nConstrictions of smooth muscle in blood vessels and airways\n\n\nReduced oxygenation of working muscles and organs, including heart & brain\n\n\nIncreased acidity and fatigue during exercise, limited sports performance\n\n\nNegative effects to overall health\n\n\n\n\nProper breathing leads to\n\n\n\n\nEasier breathing with reduced breathlessness during exercise\n\n\nNaturally increased production of EPO & red blood cells\n\n\nImprove oxygenation of working muscles and organs\n\n\nReduces lactic acid buildup & fatigue\n\n\nImproved running economy & VO2 Max\n\n\n\n\nBOLT - Body Oxygen Level Test\n\n\n\n\nBreathe normally for 10 minutes\n\n\nTake a normal breath in, then a normal exhale, and hold\n\n\nTime the breath hold\n\n\nHold until you experience a natural desire to breathe- not holding as long as possible, just until need for air\n\n\nTime is your score. Ideal target is 40+\n\n\n\n\nBasic Breath Hold Exercise\n\n\n\n\nWhile walking, take a gentle breath in, then out, then hold\n\n\nwalk 10 - 15 paces\n\n\nGently release and breathe lightly for 30 seconds or 50 paces\n\n\nRepeat\n\n\nIncrease Hold paces as you are able to, over time\n\n\nPerform this exercise for 10 -15 minutes\n\n\n\n\nIncrease EPO\n\n\n\n\n24% EPO increase, peaked at 3 hours after the final breath hold, returned to baseline 2 hours later.\n\n\n3 sets of 5 maximum duration breath holds, with each set separated by 10 minutes of rest.\n\n\nIncrease EPO by 24 to 36% by lowering blood oxygen saturation to lower than 91% for 24 seconds and 26 seconds respectively\n\n\n\n\nAdvanced Breath Hold Exercise\n\n\n\n\nThese notes are incomplete",
             "title": "The Oxygen Advantage"
