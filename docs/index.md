@@ -1,0 +1,1 @@
+Concepts, Principles, Ideas, Books, Thoughts, Notes
