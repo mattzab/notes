@@ -111,20 +111,24 @@ Negotiators are decision architects. As a negotiator, you have to dynamically an
 
 Here are some tactics, tools, and methods for using subtle verbal and nonverbal forms of communication to understand and modify the mental states of the other party:
 
-* The 7-38-55 Percent Rule
+**The 7-38-55 Percent Rule**
+
 The 7-38-55 Percent Rule created by Albert Mehrabian states that only 7 percent of a message is based on the words while 38 percent comes from the tone of voice and 55 percent from the speaker’s body language and face.
 
 Pay close attention to the other party’s tone and body language and identify if it matches with the literal meaning of the words they are trying to convey. If they don’t align, it is quite obvious that they are lying.
 
-* The Rule of Three
+**The Rule of Three**
+
 The Rule of Three is simply getting the other party to agree to the same thing three times in the same conversation.
 
 The first time they agree to something, that’s the first instance. For the second instance, you can label or summarize what they said so they answer, “That’s right.” And the third instance could be a calibrated “How” or “What” question about implementation, something like “What do you see as being the most difficult thing to get around?”
 
-* The Pinocchio Effect
+**The Pinocchio Effect**
+
 A Harvard Business School study by professor Deepak Malhotra and his colleagues found that on an average, liars use more words than those telling the truth. They also tend to use more third-person pronouns.
 
-* The Chris Discount 
+**The Chris Discount**
+
 People often get tired of hearing their own name. Switch tracks and use your name instead. This creates a sense of “forced empathy” and makes the other party see you as human.
 
 # Bargain Hard
@@ -140,7 +144,8 @@ Using the word “I” is also great at preventing confrontation. For instance, 
 
 The key is to never be needy. Remember, the person across the table is never the issue, the unsolved deal is.
 
-*The Ackerman Model*
+**The Ackerman Model**
+
 The Ackerman Model is an offer-counteroffer method. The six-step process is:
 
 1. Set your target price (your goal).
