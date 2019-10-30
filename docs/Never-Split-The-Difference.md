@@ -140,7 +140,7 @@ Using the word “I” is also great at preventing confrontation. For instance, 
 
 The key is to never be needy. Remember, the person across the table is never the issue, the unsolved deal is.
 
-* The Ackerman Model
+*The Ackerman Model*
 The Ackerman Model is an offer-counteroffer method. The six-step process is:
 
 1. Set your target price (your goal).
